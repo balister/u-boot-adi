@@ -315,6 +315,12 @@ dtb-$(CONFIG_ARCH_ZYNQ) += \
 	zynq-cse-nor.dtb \
 	zynq-cse-qspi-single.dtb \
 	zynq-dlc20-rev1.0.dtb \
+	zynq-cse-qspi-stacked.dtb \
+	zynq-cse-qspi-x1-single.dtb \
+	zynq-cse-qspi-x1-stacked.dtb \
+	zynq-cse-qspi-x2-single.dtb \
+	zynq-cse-qspi-x2-stacked.dtb \
+	zynq-coraz7s.dtb \
 	zynq-microzed.dtb \
 	zynq-minized.dtb \
 	zynq-picozed.dtb \
